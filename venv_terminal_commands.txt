@@ -1,0 +1,6 @@
+Note for future virtual environment projects (this one I'm calling pvenv)
+
+
+python -m venv pvenv
+pvenv\Scripts\activate
+pip install requests
